@@ -1,3 +1,5 @@
+![theme](https://github.com/sakibahmed-da/customer_purchase_pattern/blob/main/retail%20store%20theme.png)
+
 # Retail Store Purchase Patterns
 
 ## Overview
@@ -14,12 +16,12 @@ opportunities. Thereby increasing overall sales and customer satisfaction.
 
 ## Data preprocessing:
 
--Import necessary libraries and load dataset on Jupyter notebook 
+- Import necessary libraries and load dataset on Jupyter notebook 
 
--Checking Data columns and null values. Delete some columns and fill null values with perfect 
+- Checking Data columns and null values. Delete some columns and fill null values with perfect 
 match of those data. 
 
--Then dealing with some duplicates data.
+- Then dealing with some duplicates data.
 
 ## Key Findings:
 
@@ -54,6 +56,6 @@ If you like this project, feel free to  star the repository and share your thoug
 
 ### Other Portfolio
 
-> [Website](https://sakibda.wixsite.com/sakib-ahmed)
-> [Datacamp](https://www.datacamp.com/portfolio/sakib007)
-> [Hacker Rank](https://www.hackerrank.com/profile/ahmedsakib540)
+- [Website](https://sakibda.wixsite.com/sakib-ahmed)
+- [Datacamp](https://www.datacamp.com/portfolio/sakib007)
+- [Hacker Rank](https://www.hackerrank.com/profile/ahmedsakib540)
