@@ -44,7 +44,8 @@ match of those data.
 
 **Leverage digital payment trends** to improve customer experience.
 
-[See full report] (https://github.com/sakibahmed-da/customer_purchase_pattern/blob/main/retail%20store.pdf)
+[See full report] 
+(https://github.com/sakibahmed-da/customer_purchase_pattern/blob/main/retail%20store.pdf)
 
 ## Let's Connect
 If you like this project, feel free to  star the repository and share your thoughts
